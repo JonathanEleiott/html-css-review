@@ -67,4 +67,19 @@ nav > a {
   display: flex;
   align-items: center;
   justify-content: center;
+  text-decoration: none;
+  color: white;
+}
+
+#selected {
+  color: black;
+  background-color: green;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.blue-bg {
+  background-color: blue;
 }

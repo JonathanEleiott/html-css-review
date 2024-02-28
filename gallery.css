@@ -1,0 +1,24 @@
+h1 {
+  font-size: 50px;
+}
+
+main img {
+  height: 200px;
+  width: 200px;
+  margin: 10px;
+}
+
+section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+section > section {
+  margin: 5px;
+  background-color: gray;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+}
