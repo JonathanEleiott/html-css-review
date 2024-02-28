@@ -29,3 +29,42 @@ main {
 #hot-wings-image {
   width: 50%;
 }
+
+footer img {
+  height: 50%;
+}
+
+footer > a {
+  width: 30px;
+}
+
+footer {
+  display: flex;
+  justify-content: space-around;
+  height: 75px;
+}
+
+h1:hover {
+  color: green;
+  font-size: 60px;;
+}
+
+h1 {
+  font-size: 80px;
+  color: blue;
+}
+
+h1 {
+  color: rebeccapurple;
+}
+
+nav > a {
+  width: 75px;
+  height: 75px;
+  background-color: #7469B6;
+  border: black solid 2px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
