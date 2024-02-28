@@ -1,0 +1,13 @@
+h1 {
+  font-size: 50px;
+  color: dodgerblue;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  margin: 5px;
+}
